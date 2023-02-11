@@ -9,5 +9,11 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("hihihi");
         }
+
+
+        static void Feature1()
+        {
+            Console.WriteLine("Feature1");
+        }
     }
 }
