@@ -10,5 +10,6 @@ namespace ConsoleApp1
         public List<string> Authors { get; set; }
         public DateTime PubliccationDate { get; set; }
 
+        fix from Book1 branch
     }
 }
