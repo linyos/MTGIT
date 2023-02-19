@@ -9,6 +9,7 @@ namespace ConsoleApp1
         public string Title { get; set; }
         public List<string> Authors { get; set; }
         public DateTime PubliccationDate { get; set; }
-
+       
+        fix form Book2 branck;
     }
 }
